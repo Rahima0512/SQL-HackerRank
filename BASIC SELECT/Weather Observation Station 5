@@ -1,0 +1,2 @@
+Select City,length(City) from Station order by length(City) asc,city asc limit 1;
+Select distinct(City),length(City) from Station order by length(City) desc,city desc limit 1;
