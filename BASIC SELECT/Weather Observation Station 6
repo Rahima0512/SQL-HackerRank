@@ -1,0 +1,1 @@
+Select distinct(City) From Station where Left(City,1) In ('a','e','i','o','u');
