@@ -1,0 +1,1 @@
+Select distinct(city) From station where city RLIKE '^[^aeiouAEIOU]';
